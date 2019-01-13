@@ -5,10 +5,9 @@ title: Spark based python/scala in jupyter notebook
 
 1. 安装 jupyter
 
-   ```
    pip install --upgrade pip
    pip install jupyter
-   ```
+   
 
 2. 配置文件
 
